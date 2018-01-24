@@ -1,0 +1,21 @@
+{
+  "name": "approvaly",
+  "description": "Automatically approved Github pull requests which are sent along with a Bonus.ly bonus.",
+  "version": "0.1.0",
+  "main": "./index.js",
+  "author": "Julius Ehrlich",
+  "license": "MIT",
+  "repository": "git://github.com/jlis/approvaly.git",
+  "homepage": "https://github.com/jlis/approvaly",
+  "bugs": { "url": "https://github.com/jlis/approvaly/issues" },
+  "keywords": ["bonusly", "github", "bot", "approval", "pull request"],
+  "tags": ["bonusly", "github", "bot", "approval", "pull request"],
+  "dependencies": {
+    "axios": "^0.17.1",
+    "chalk": "^2.3.0",
+    "commander": "^2.13.0",
+    "lodash": "^4.17.4",
+    "ora": "^1.3.0",
+    "play-sound": "^1.1.2",
+  }
+}
