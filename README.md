@@ -21,7 +21,7 @@ Also make sure you have MPlayer installed to avoid problems when playing the cas
 
 You can create your Bonusly access token [here](https://bonus.ly/api_keys/new) and your Github access token [here](https://github.com/settings/tokens/new).
 
-**Pro tip**
+**Pro tip:**
 
     $ node index.js --help
 
