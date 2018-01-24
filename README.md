@@ -1,4 +1,4 @@
-# Approvaly
+# Approva.ly
 
 Automatically approved Github pull requests which are sent along with a Bonus.ly bonus.
 
