@@ -5,7 +5,7 @@ Automatically approved Github pull requests which are sent along with a Bonus.ly
 ## Installation
 
     $ git clone git@github.com:jlis/approvaly.git approvaly
-    $ cd approval
+    $ cd approvaly
     $ yarn install
 
 Instead of yarn you can also use NPM.
